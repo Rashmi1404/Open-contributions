@@ -1,4 +1,4 @@
-# Data Science/Machine Learning Topics
+# Data Science/ Machine Learning Topics
 ```
 EDA
 Association Rules
